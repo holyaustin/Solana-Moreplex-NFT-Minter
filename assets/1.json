@@ -1,0 +1,19 @@
+{
+    "name": "QUEEN ANT 2",
+    "symbol": "ANT",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "6UadoV4WxF64tsSpCcHzCZEbjFxPCoogx4wbESywcsxM",
+          "share": 100
+        }
+      ]
+    }
+  }
